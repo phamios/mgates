@@ -1,0 +1,200 @@
+header.navbar ul a.new-vi::after {
+    content: "Mới";
+    display: inline-block;
+    position: relative;
+    height: 15px;
+    padding: 0 3px;
+    margin-left: 8px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    background: #64bd2e;
+    background-image: -webkit-linear-gradient(#64bd2e, #50a91a);
+    background-image: -moz-linear-gradient(#64bd2e, #50a91a);
+    background-image: -o-linear-gradient(#64bd2e, #50a91a);
+    background-image: -ms-linear-gradient(#64bd2e, #50a91a);
+    background-image: linear-gradient(#64bd2e, #50a91a);
+    -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.07);
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.07);
+    font-size: 9px;
+    line-height: 15px;
+    color: #fff;
+}
+
+.job-catch-all{
+	text-align: center;
+	margin-bottom: 80px;
+}
+.job-catch-all p {
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 1em;
+}
+
+.job-catch-all h2 {
+    font-size: 18px;
+    text-align: center;
+}
+
+.moduletable.moduletable-tearm a.current {
+    color: #323b3f !important;
+}
+
+.job-catch-all a {
+    color: #36a445;
+}
+
+.job-catch-all:before{
+	content: '';
+    display: block;
+    margin: 2em auto;
+    width: 262px;
+    height: 1px;
+    background: rgba(102, 118, 142, 0.075);
+}
+
+.footer-info span a{
+	padding: 0px !important;
+}
+
+#intercom-container .intercom-launcher {
+	bottom: 10px !important;
+	right: 70px !important;
+}
+
+.footer-info span a:hover{
+	color: #36a445;
+}
+.btn-ellipsis {
+	text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    vertical-align: bottom;
+    text-align: center;
+}
+.btn-110 {
+	width: 110px;
+}
+.text-ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.features-container h3 {
+    line-height: 16px;
+    margin: 0;
+    padding: 0px 45px;
+    font-size: 13px;
+}
+
+.slider-home .inner-col.container .text h2 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.services-list-wrap .services-item a h2 {
+    color: #38b449;
+    font-size: 20px;
+    font-weight: 300;
+    margin: 10px 0;
+}
+
+.services-title .p-title {
+    color: rgba(255,255,255,0.5);
+    font-size: 1.4em;
+    line-height: 1.4em;
+    font-weight: 300;
+    margin-top: .4em;
+    margin-bottom: 2.15em;
+} 
+
+.services-join-left h3 {
+    font-size: 1.4em;
+    margin-top: .5em;
+    margin-bottom: .4em;
+    font-weight: 500;
+    color: #292e31;
+}
+
+.platform_integration .platform_detail_title h3, .platform_absolute .platform_detail_title h3 {
+    color: rgba(255, 255, 255, 0.75);
+}
+.platform_detail_title h3 {
+    margin: 0 auto;
+    font-size: 1.2em;
+    color: #6f7c82;
+    margin-bottom: 50px;
+    max-width: 700px;
+}
+.platform_list_detail ul li h2 {
+    width: 60%;
+    font-size: 1em;
+    line-height: 1.2em;
+    margin-bottom: 3px;
+    color: #fff;
+    display: block;
+    font-weight: 400;
+    float: left;
+}
+.international_payments h3 {
+    padding: 0 100px;
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+.bubble-overlay-content .card h2 {
+    font-size: 18px;
+    color: #b1b6eb;
+    margin-bottom: 20px;
+    line-height: 25px;
+}
+
+.features-container div.features-connection {
+    background-image: url("../img/home/card@2x.png");
+    background-size: 70px 70px;
+    background-repeat: no-repeat;
+}
+
+.features-container div.features-pricing {
+    background-image: url("../img/home/tag@2x.png");
+    background-size: 70px 70px;
+    background-repeat: no-repeat;
+}
+
+.features-container div.features-management {
+    background-image: url("../img/home/web_mobile@2x.png");
+    background-size: 70px 70px;
+    background-repeat: no-repeat;
+}
+
+.features-container div.divh2 {
+    font-weight: 500;
+    padding-top: 92px;
+    background-repeat: no-repeat;
+    background-position: 50% 2px;
+}
+
+.services-title .divh1 {
+    margin-bottom: 0;
+    line-height: 1.2em;
+    margin-top: 1em;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.platform_detail_title .divh2 {
+    font-size: 1.8em;
+    color: #292e31;
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+
+.platform_integration .platform_detail_title .divh2, .platform_absolute .platform_detail_title .divh2 {
+    color: #fff;
+}
+
+.services-split .left_split h2 {
+    font-weight: 600;
+}
