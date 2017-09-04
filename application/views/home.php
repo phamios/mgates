@@ -1,1218 +1,356 @@
 <!DOCTYPE html>
-<!-- saved from url=(0029)https://1pay.vn/home/?lang=en -->
-<html class="no-js" lang="">
+ 
+<html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en">
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
+    <!-- Start Visual Website Optimizer Asynchronous Code -->
 
+    <script src="<?php echo base_url('src/tem');?>/index_files/j.php" type="text/javascript"></script>
+    <!-- End Visual Website Optimizer Asynchronous Code -->
 
-    <script type="text/javascript" src="<?php echo base_url('src');?>/temp/30e4ef4146"></script>
-    <script type="text/javascript" async="" src="<?php echo base_url('src');?>/temp/t1w6iozt"></script>
-    <script src="<?php echo base_url('src');?>/temp/nr-1044.min.js"></script>
-    <script type="text/javascript" async="" src="<?php echo base_url('src');?>/temp/conversion_async.js"></script>
-    <script type="text/javascript" async="" src="<?php echo base_url('src');?>/temp/ga.js"></script>
-    <script async="" src="<?php echo base_url('src');?>/temp/analytics.js"></script>
-    <script src="<?php echo base_url('src');?>/temp/cb=gapi.loaded_1" async=""></script>
-    <script src="<?php echo base_url('src');?>/temp/cb=gapi.loaded_0" async=""></script>
-    <script id="facebook-jssdk" src="<?php echo base_url('src');?>/temp/sdk.js"></script>
-    <script src="<?php echo base_url('src');?>/temp/1755995154636587" async=""></script>
-    <script async="" src="<?php echo base_url('src');?>/temp/fbevents.js"></script>
-    <script async="" src="<?php echo base_url('src');?>/temp/gtm.js"></script>
-
-    <link rel="stylesheet" href="<?php echo base_url('src');?>/temp/home.css">
- 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+    <script type="text/javascript" src="<?php echo base_url('src/tem');?>/index_files/less.min.js.tải xuống"></script>
 
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>International Money Transfers - Mgates Inc</title>
 
-    <!-- SEO META -->
-    <meta name="robots" content="index, follow">
-    <meta name="revisit-after" content="7 days">
-    <meta name="author" content="1Pay - A product of MOG Vietnam">
-    <meta name="copyright" content="2015 MOG Vietnam">
+    
+    <script src="<?php echo base_url('src/tem');?>/index_files/wp-emoji-release.min.js.tải xuống" type="text/javascript" defer=""></script>
 
-    <meta property="og:title" content="1Pay – The best open e-payment platform">
-    <meta property="og:description" content="1Pay is the best open e-payment platform in Vietnam. Support all payment services, own the smart platform, help anyone can connect very fast, exactly, apparently and safely.">
-    <meta property="og:image" content="https://1pay.vn/home/content/images/meta/en/01.home.png">
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="1Pay – The best open e-payment platform">
-    <meta property="og:url" content="https://1pay.vn/home/?lang=en">
-    <meta property="article:author" content="https://www.facebook.com/1pay.vn">
-    <meta property="article:publisher" content="https://www.facebook.com/1pay.vn">
+    <link rel="stylesheet" id="opensans-css" href="<?php echo base_url('src/tem');?>/index_files/googlefonts.css" type="text/css" media="all">
+    <link rel="stylesheet" id="roots_css-css" href="<?php echo base_url('src/tem');?>/index_files/main.min.css" type="text/css" media="all">
+    <link rel="stylesheet" id="wr-megamenu-site-css" href="<?php echo base_url('src/tem');?>/index_files/frontend.css" type="text/css" media="all">
+    <link rel="stylesheet" id="wr-mm-bootstrap3-css" href="<?php echo base_url('src/tem');?>/index_files/bootstrap.min.css" type="text/css" media="all">
+    <link rel="stylesheet" id="bxslider-css" href="<?php echo base_url('src/tem');?>/index_files/jquery.bxslider.css" type="text/css" media="all">
+    <link rel="stylesheet" id="payoneer_default-css" href="<?php echo base_url('src/tem');?>/index_files/default.css" type="text/css" media="all">
+    <link rel="stylesheet" id="mobile-css" href="<?php echo base_url('src/tem');?>/index_files/mobile.css" type="text/css" media="all">
+    <link rel="stylesheet" id="mCustomScrollbar-css" href="<?php echo base_url('src/tem');?>/index_files/jquery.mCustomScrollbar.min.css" type="text/css" media="all">
+    <link rel="stylesheet" id="formidable-css" href="<?php echo base_url('src/tem');?>/index_files/formidablepro.css" type="text/css" media="all">
+    <link rel="stylesheet" id="tablepress-default-css" href="<?php echo base_url('src/tem');?>/index_files/default.min.css" type="text/css" media="all">
+    <link rel="stylesheet" id="wr-mm-bootstrap3-icomoon-css" href="<?php echo base_url('src/tem');?>/index_files/icomoon.css" type="text/css" media="all">
+    <link rel="stylesheet" id="wr-font-awesome-css" href="<?php echo base_url('src/tem');?>/index_files/font-awesome.min.css" type="text/css" media="all">
+    <script type="text/javascript" src="<?php echo base_url('src/tem');?>/index_files/jquery.js.tải xuống"></script>
+    <script type="text/javascript" src="<?php echo base_url('src/tem');?>/index_files/jquery-migrate.min.js.tải xuống"></script>
+    <script type="text/javascript" src="<?php echo base_url('src/tem');?>/index_files/jquery.bxslider.min.js.tải xuống"></script>
+    <script type="text/javascript" src="<?php echo base_url('src/tem');?>/index_files/circle-progress.js.tải xuống"></script>
+    <script type="text/javascript" src="<?php echo base_url('src/tem');?>/index_files/jquery.waypoints.min.js.tải xuống"></script>
+    <script type="text/javascript" src="<?php echo base_url('src/tem');?>/index_files/jquery.mCustomScrollbar.min.js.tải xuống"></script>
+    <script src="<?php echo base_url('src/tem');?>/index_files/jquery.mousewheel.min.js.tải xuống"></script>
+    <script type="text/javascript" src="<?php echo base_url('src/tem');?>/index_files/jquery.mousewheel.min.js(1).tải xuống"></script>
+    <script type="text/javascript" src="<?php echo base_url('src/tem');?>/index_files/flip.js.tải xuống"></script>
 
-    <meta name="apple-mobile-web-app-title" content="1Pay – The best open e-payment platform">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <!-- /SEO META -->
-
-    <link rel="canonical" href="https://1pay.vn/home">
-
-    <!-- Google web Master -->
-    <meta name="google-site-verification" content="u9pFBTbpHEnXFgFJTTO-krquTaS2kfdEa_G8qfikqVk">
-    <meta name="google" content="notranslate">
-    <!-- google webmaster tool -->
-
-    <link href="<?php echo base_url('src');?>/temp/css" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="<?php echo base_url('src');?>/temp/main.css">
-    <link rel="stylesheet" href="<?php echo base_url('src');?>/temp/responsive.css">
-    <link rel="stylesheet" href="<?php echo base_url('src');?>/temp/animations.css">
-
-    <link rel="stylesheet" href="<?php echo base_url('src');?>/temp/1pay-css.css">
-
-
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-K4DPHBB');
-    </script>
-    <!-- End Google Tag Manager -->
-
-    <!-- Facebook Pixel Code -->
-    <script>
-        ! function(f, b, e, v, n, t, s) {
-            if (f.fbq) return;
-            n = f.fbq = function() {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n;
-            n.push = n;
-            n.loaded = !0;
-            n.version = '2.0';
-            n.queue = [];
-            t = b.createElement(e);
-            t.async = !0;
-            t.src = v;
-            s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window,
-            document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
-
-        fbq('init', '1755995154636587');
-        fbq('track', "PageView");
-    </script>
-    <noscript>&lt;img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1755995154636587&amp;ev=PageView&amp;noscript=1" /&gt;
-    </noscript>
-    <!-- End Facebook Pixel Code -->
-
-
-    <title>Choose the best online payment gateway in Vietnam - 1Pay</title>
-
-    <style type="text/css">
-        .fb_hidden {
-            position: absolute;
-            top: -10000px;
-            z-index: 10001
-        }
-        .fb_reposition {
-            overflow: hidden;
-            position: relative
-        }
-        .fb_invisible {
-            display: none
-        }
-        .fb_reset {
-            background: none;
-            border: 0;
-            border-spacing: 0;
-            color: #000;
-            cursor: auto;
-            direction: ltr;
-            font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
-            font-size: 11px;
-            font-style: normal;
-            font-variant: normal;
-            font-weight: normal;
-            letter-spacing: normal;
-            line-height: 1;
-            margin: 0;
-            overflow: visible;
-            padding: 0;
-            text-align: left;
-            text-decoration: none;
-            text-indent: 0;
-            text-shadow: none;
-            text-transform: none;
-            visibility: visible;
-            white-space: normal;
-            word-spacing: normal
-        }
-        .fb_reset>div {
-            overflow: hidden
-        }
-        .fb_link img {
-            border: none
-        }
-        @keyframes fb_transform {
-            from {
-                opacity: 0;
-                transform: scale(.95)
-            }
-            to {
-                opacity: 1;
-                transform: scale(1)
-            }
-        }
-        .fb_animate {
-            animation: fb_transform .3s forwards
-        }
-        .fb_dialog {
-            background: rgba(82, 82, 82, .7);
-            position: absolute;
-            top: -10000px;
-            z-index: 10001
-        }
-        .fb_reset .fb_dialog_legacy {
-            overflow: visible
-        }
-        .fb_dialog_advanced {
-            padding: 10px;
-            -moz-border-radius: 8px;
-            -webkit-border-radius: 8px;
-            border-radius: 8px
-        }
-        .fb_dialog_content {
-            background: #fff;
-            color: #333
-        }
-        .fb_dialog_close_icon {
-            background: url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;
-            cursor: pointer;
-            display: block;
-            height: 15px;
-            position: absolute;
-            right: 18px;
-            top: 17px;
-            width: 15px
-        }
-        .fb_dialog_mobile .fb_dialog_close_icon {
-            top: 5px;
-            left: 5px;
-            right: auto
-        }
-        .fb_dialog_padding {
-            background-color: transparent;
-            position: absolute;
-            width: 1px;
-            z-index: -1
-        }
-        .fb_dialog_close_icon:hover {
-            background: url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent
-        }
-        .fb_dialog_close_icon:active {
-            background: url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent
-        }
-        .fb_dialog_loader {
-            background-color: #f6f7f9;
-            border: 1px solid #606060;
-            font-size: 24px;
-            padding: 20px
-        }
-        .fb_dialog_top_left,
-        .fb_dialog_top_right,
-        .fb_dialog_bottom_left,
-        .fb_dialog_bottom_right {
-            height: 10px;
-            width: 10px;
-            overflow: hidden;
-            position: absolute
-        }
-        .fb_dialog_top_left {
-            background: url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;
-            left: -10px;
-            top: -10px
-        }
-        .fb_dialog_top_right {
-            background: url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;
-            right: -10px;
-            top: -10px
-        }
-        .fb_dialog_bottom_left {
-            background: url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;
-            bottom: -10px;
-            left: -10px
-        }
-        .fb_dialog_bottom_right {
-            background: url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;
-            right: -10px;
-            bottom: -10px
-        }
-        .fb_dialog_vert_left,
-        .fb_dialog_vert_right,
-        .fb_dialog_horiz_top,
-        .fb_dialog_horiz_bottom {
-            position: absolute;
-            background: #525252;
-            filter: alpha(opacity=70);
-            opacity: .7
-        }
-        .fb_dialog_vert_left,
-        .fb_dialog_vert_right {
-            width: 10px;
-            height: 100%
-        }
-        .fb_dialog_vert_left {
-            margin-left: -10px
-        }
-        .fb_dialog_vert_right {
-            right: 0;
-            margin-right: -10px
-        }
-        .fb_dialog_horiz_top,
-        .fb_dialog_horiz_bottom {
-            width: 100%;
-            height: 10px
-        }
-        .fb_dialog_horiz_top {
-            margin-top: -10px
-        }
-        .fb_dialog_horiz_bottom {
-            bottom: 0;
-            margin-bottom: -10px
-        }
-        .fb_dialog_iframe {
-            line-height: 0
-        }
-        .fb_dialog_content .dialog_title {
-            background: #6d84b4;
-            border: 1px solid #365899;
-            color: #fff;
-            font-size: 14px;
-            font-weight: bold;
-            margin: 0
-        }
-        .fb_dialog_content .dialog_title>span {
-            background: url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;
-            float: left;
-            padding: 5px 0 7px 26px
-        }
-        body.fb_hidden {
-            -webkit-transform: none;
-            height: 100%;
-            margin: 0;
-            overflow: visible;
-            position: absolute;
-            top: -10000px;
-            left: 0;
-            width: 100%
-        }
-        .fb_dialog.fb_dialog_mobile.loading {
-            background: url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;
-            min-height: 100%;
-            min-width: 100%;
-            overflow: hidden;
-            position: absolute;
-            top: 0;
-            z-index: 10001
-        }
-        .fb_dialog.fb_dialog_mobile.loading.centered {
-            width: auto;
-            height: auto;
-            min-height: initial;
-            min-width: initial;
-            background: none
-        }
-        .fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner {
-            width: 100%
-        }
-        .fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content {
-            background: none
-        }
-        .loading.centered #fb_dialog_loader_close {
-            color: #fff;
-            display: block;
-            padding-top: 20px;
-            clear: both;
-            font-size: 18px
-        }
-        #fb-root #fb_dialog_ipad_overlay {
-            background: rgba(0, 0, 0, .45);
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            top: 0;
-            width: 100%;
-            min-height: 100%;
-            z-index: 10000
-        }
-        #fb-root #fb_dialog_ipad_overlay.hidden {
-            display: none
-        }
-        .fb_dialog.fb_dialog_mobile.loading iframe {
-            visibility: hidden
-        }
-        .fb_dialog_content .dialog_header {
-            -webkit-box-shadow: white 0 1px 1px -1px inset;
-            background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));
-            border-bottom: 1px solid;
-            border-color: #1d4088;
-            color: #fff;
-            font: 14px Helvetica, sans-serif;
-            font-weight: bold;
-            text-overflow: ellipsis;
-            text-shadow: rgba(0, 30, 84, .296875) 0 -1px 0;
-            vertical-align: middle;
-            white-space: nowrap
-        }
-        .fb_dialog_content .dialog_header table {
-            -webkit-font-smoothing: subpixel-antialiased;
-            height: 43px;
-            width: 100%
-        }
-        .fb_dialog_content .dialog_header td.header_left {
-            font-size: 12px;
-            padding-left: 5px;
-            vertical-align: middle;
-            width: 60px
-        }
-        .fb_dialog_content .dialog_header td.header_right {
-            font-size: 12px;
-            padding-right: 5px;
-            vertical-align: middle;
-            width: 60px
-        }
-        .fb_dialog_content .touchable_button {
-            background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));
-            border: 1px solid #29487d;
-            -webkit-background-clip: padding-box;
-            -webkit-border-radius: 3px;
-            -webkit-box-shadow: rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;
-            display: inline-block;
-            margin-top: 3px;
-            max-width: 85px;
-            line-height: 18px;
-            padding: 4px 12px;
-            position: relative
-        }
-        .fb_dialog_content .dialog_header .touchable_button input {
-            border: none;
-            background: none;
-            color: #fff;
-            font: 12px Helvetica, sans-serif;
-            font-weight: bold;
-            margin: 2px -12px;
-            padding: 2px 6px 3px 6px;
-            text-shadow: rgba(0, 30, 84, .296875) 0 -1px 0
-        }
-        .fb_dialog_content .dialog_header .header_center {
-            color: #fff;
-            font-size: 16px;
-            font-weight: bold;
-            line-height: 18px;
-            text-align: center;
-            vertical-align: middle
-        }
-        .fb_dialog_content .dialog_content {
-            background: url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;
-            border: 1px solid #555;
-            border-bottom: 0;
-            border-top: 0;
-            height: 150px
-        }
-        .fb_dialog_content .dialog_footer {
-            background: #f6f7f9;
-            border: 1px solid #555;
-            border-top-color: #ccc;
-            height: 40px
-        }
-        #fb_dialog_loader_close {
-            float: left
-        }
-        .fb_dialog.fb_dialog_mobile .fb_dialog_close_button {
-            text-shadow: rgba(0, 30, 84, .296875) 0 -1px 0
-        }
-        .fb_dialog.fb_dialog_mobile .fb_dialog_close_icon {
-            visibility: hidden
-        }
-        #fb_dialog_loader_spinner {
-            animation: rotateSpinner 1.2s linear infinite;
-            background-color: transparent;
-            background-image: url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);
-            background-repeat: no-repeat;
-            background-position: 50% 50%;
-            height: 24px;
-            width: 24px
-        }
-        @keyframes rotateSpinner {
-            0% {
-                transform: rotate(0deg)
-            }
-            100% {
-                transform: rotate(360deg)
-            }
-        }
-        .fb_iframe_widget {
-            display: inline-block;
-            position: relative
-        }
-        .fb_iframe_widget span {
-            display: inline-block;
-            position: relative;
-            text-align: justify
-        }
-        .fb_iframe_widget iframe {
-            position: absolute
-        }
-        .fb_iframe_widget_fluid_desktop,
-        .fb_iframe_widget_fluid_desktop span,
-        .fb_iframe_widget_fluid_desktop iframe {
-            max-width: 100%
-        }
-        .fb_iframe_widget_fluid_desktop iframe {
-            min-width: 220px;
-            position: relative
-        }
-        .fb_iframe_widget_lift {
-            z-index: 1
-        }
-        .fb_hide_iframes iframe {
-            position: relative;
-            left: -10000px
-        }
-        .fb_iframe_widget_loader {
-            position: relative;
-            display: inline-block
-        }
-        .fb_iframe_widget_fluid {
-            display: inline
-        }
-        .fb_iframe_widget_fluid span {
-            width: 100%
-        }
-        .fb_iframe_widget_loader iframe {
-            min-height: 32px;
-            z-index: 2;
-            zoom: 1
-        }
-        .fb_iframe_widget_loader .FB_Loader {
-            background: url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat;
-            height: 32px;
-            width: 32px;
-            margin-left: -16px;
-            position: absolute;
-            left: 50%;
-            z-index: 4
-        }
-    </style>
+    <link rel="stylesheet" href="<?php echo base_url('src/tem');?>/index_files/eoi.css" type="text/css" media="all">
+    <meta name="referrer" content="origin">
+    <link rel="icon" href="https://www.mgates.net/img/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="https://www.mgates.net/img/favicon.ico" type="image/x-icon">
+    
+    <link rel="stylesheet" id="wr-243-css" href="<?php echo base_url('src/tem');?>/index_files/default(1).css" type="text/css" media="all">
+    <script src="<?php echo base_url('src/tem');?>/index_files/va-1c6a9fdc9089c8d7da53fa2910ef15d3.js.tải xuống" type="text/javascript"></script>
 </head>
 
-<body>
+<body language="English (US)" class="home page-template page-template-template-home page-template-template-home-php page page-id-13  en LTR blog-20" dir="LTR">
 
 
+    <input type="hidden" id="url_params" name="url_params" value="">
+    <header class="banner navbar navbar-default navbar-static-top high_heder LTR" role="banner">
+        <div class="buner_mobile_bg "></div>
+        <div id="header-shade"></div>
+        <div class="">
+            <div id="topbar">
 
-
-
-    <!-- Google Tag Manager (noscript) -->
-    <noscript>&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K4DPHBB" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript>
-    <!-- End Google Tag Manager (noscript) -->
-
-    <!--       navbar-->
-    <header class="navbar ">
-
-        <div class="container navbar-container">
-            <div class="row">
-                <div class="col-md-12">
-                    <nav class="navbar navbar-default navbar-default-normal" role="navigation">
+                <div id="topnav" class="nofix">
+                    <div class="container">
                         <div class="navbar-header">
-
-                            <h1>
-
-                        		<a class="navbar-brand " href="https://1pay.vn/home/">1PAY</a>
-
-                        	</h1>
-
-                        </div>
-                        <div class="collapse navbar-collapse navbar-ex1-collapse">
-                            <ul id="navbar-main-1" class="nav navbar-nav">
-                                <li><a href="https://1pay.vn/home/services.html">Service</a>
-                                </li>
-                                <li><a href="https://1pay.vn/home/platform.html">Platform</a>
-                                </li>
-                                <li class="dropdown">
-                                    <a href="https://1pay.vn/home/?lang=en#" class="dropdown-toggle" data-toggle="dropdown">More <b class="caret"></b></a>
-                                    <ul class="dropdown-menu animated" data-animation="fadeInDown-1">
-                                        <li><a href="https://1pay.vn/home/?lang=en#" class="new">1 Cash</a>
-                                        </li>
-                                        <li role="separator" class="divider"></li>
-                                        <li><a href="https://1pay.vn/home/about.html">About us</a>
-                                        </li>
-                                        <li><a target="_bank" href="http://blog.1pay.vn/">Blog</a>
-                                        </li>
-                                        <li><a href="https://1pay.vn/home/payment-policy.html">Policy</a>
-                                        </li>
-                                        <li><a href="https://1pay.vn/home/terms.html">Terms of Use</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                            </ul>
-
-                            <ul id="navbar-main-2" class="nav navbar-nav navbar-right">
-                                <li><a target="_bank" href="http://developers.1pay.vn/en">Technical connection document</a>
-                                </li>
-                                <li><a target="_bank" href="http://developers.1pay.vn/en/help-and-support">Support</a>
-                                </li>
-                                <li class="dropdown">
-                                    <a href="https://1pay.vn/home/?lang=en#" class="dropdown-toggle" data-toggle="dropdown">English <b class="caret"></b></a>
-                                    <ul class="dropdown-menu animated" data-animation="fadeInDown-1">
-
-                                        <li><a href="https://1pay.vn/home/?lang=vi">Vietnamese</a>
-                                        </li>
-
-                                        <li><a href="https://1pay.vn/home/?lang=en">English</a>
-                                        </li>
-
-                                        <li role="separator" class="divider"></li>
-
-                                        <li><a href="https://1pay.vn/home/?lang=in">Indonesian</a>
-                                        </li>
-
-                                        <li><a href="https://1pay.vn/home/?lang=th">Thai</a>
-                                        </li>
-
-                                        <li><a href="https://1pay.vn/home/?lang=zh">Chinese</a>
-                                        </li>
-
-                                    </ul>
-                                </li>
-
-
-
-                                <li><a href="https://1pay.vn/login.html" class="button secondary">Sign in</a>
-                                </li>
-
-
-
-                            </ul>
-                        </div>
-                    </nav>
-
-                    <nav class="navbar navbar-default navbar-default-responsive" role="navigation">
-                        <div class="navbar-header">
-                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse-1">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand " href="https://1pay.vn/home/">1 Pay</a>
+                            <a class="navbar-brand" href="#"><img src="<?php echo base_url('src/tem');?>/index_files/logo.png" alt="Mgates" title="Mgates"></a>
                         </div>
-                        <div class="collapse navbar-collapse navbar-ex1-collapse-1">
-                            <ul class="nav navbar-nav navbar-nav-language navbar-nav-login">
-                                <li class="navbar-account">
+                        <nav class="collapse navbar-collapse" role="navigation">
+                            <style type="text/css"></style>
+                            <style type="text/css"></style>
+                            <div class="it-responsive-mega" id="dln_megamenu_15044673713260"></div>
+                            <div class="wr-megamenu-container jsn-bootstrap3 primary_navigation_243" data-relate-id="dln_megamenu_15044673713260">
+                                <ul id="wr-megamenu-menu-5" class="wr-mega-menu nav-menu">
+                                    <li class="wr-megamenu-item level-0 mega-item wr-megamenu-fixed menu-services">
+                                        <span target="_blank" class="menu-item-link new-span">
+                                            <span class="menu_title" onclick="#">Services</span>
+                                        </span>
+                                    </li>
+                                    <li class="wr-megamenu-item level-0 mega-item wr-megamenu-fixed menu-industries">
+                                        <span target="_blank" class="menu-item-link new-span">
+                                            <span class="menu_title" onclick="#">Industries</span>
+                                        </span>
+                                    </li>
+                                    <li class="wr-megamenu-item level-0 mega-item wr-megamenu-fixed menu-about"><span target="_blank" class="menu-item-link new-span">
+                                        <span class="menu_title" onclick="#">About</span></span>
 
+                                    </li>
+                                    <li class="wr-megamenu-item level-0 mega-item wr-megamenu-fixed menu-contact-us"><span target="_blank" class="menu-item-link new-span">
+                                        <span class="menu_title" onclick="#">Contact Us</span></span>
 
-
-                                    <a href="https://1pay.vn/login.html" class="button secondary">Sign in</a>
-
-
-                                </li>
-                                <li class="dropdown dropdown-res">
-                                    <a href="https://1pay.vn/home/?lang=en#" class="dropdown-toggle" data-toggle="dropdown">English<b class="caret"></b></a>
-                                    <ul class="dropdown-menu">
-
-                                        <li><a href="https://1pay.vn/home/?lang=vi">Vietnamese</a>
-                                        </li>
-
-                                        <li><a href="https://1pay.vn/home/?lang=en">English</a>
-                                        </li>
-
-                                        <li role="separator" class="divider"></li>
-
-                                        <li><a href="https://1pay.vn/home/?lang=in">Indonesian</a>
-                                        </li>
-
-                                        <li><a href="https://1pay.vn/home/?lang=th">Thai</a>
-                                        </li>
-
-                                        <li><a href="https://1pay.vn/home/?lang=zh">Chinese</a>
-                                        </li>
-
-                                    </ul>
-                                </li>
-
-                            </ul>
-                            <ul class="nav navbar-nav navbar-nav-primary">
-                                <li><a href="https://1pay.vn/home/services.html">Service</a>
-                                </li>
-                                <li><a href="https://1pay.vn/home/platform.html">Platform</a>
-                                </li>
-                                <li><a href="https://1pay.vn/home/?lang=en#" class="new">1 Cash</a>
-                                </li>
-                                <li><a target="_bank" href="http://developers.1pay.vn/en">Technical connection document</a>
-                                </li>
-                                <li><a target="_bank" href="http://developers.1pay.vn/en/help-and-support">Support</a>
-                                </li>
-                            </ul>
-                            <ul class="nav navbar-nav navbar-nav-secondary">
-                                <li><a href="https://1pay.vn/home/about.html">About us</a>
-                                </li>
-                                <li><a target="_bank" href="http://blog.1pay.vn/">Blog</a>
-                                </li>
-                                <li><a href="https://1pay.vn/home/payment-policy.html">Policy</a>
-                                </li>
-                                <li><a href="https://1pay.vn/home/terms.html">Terms of Use</a>
-                                </li>
-                            </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </nav>
+                        <div class="fixed_menue_links">
+                            <a class="orange-button" target="_self" href="#">Sign up</a></a>
                         </div>
-                    </nav>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div id="slideshow">
+            <div class="bx-wrapper" style="max-width: 100%; margin: 0px auto;">
+                <div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height: 660px;">
+                    <ul class="bxslider" style="width: 715%; position: relative; transition-duration: 1.5s; transform: translate3d(-5316px, 0px, 0px);">
+                        <li style="background-image: url(&quot;<?php echo base_url('src/tem/slide/solutions-banner-payment.jpg');?>&quot;); float: left; list-style: none; position: relative; width: 1319px;" class="bx-clone">
+                            <div class="buner_mobile_bg" style="background-image: url(<?php echo base_url('src/tem/slide/solutions-banner-payment.jpg');?>);"></div>
+                            <div class="content container"></div>
+                        </li>
+                        <li style="background-image: url(&quot;<?php echo base_url('src/tem/slide/Slider-1-photo-only.jpg');?>&quot;); float: left; list-style: none; position: relative; width: 1319px;">
+                            <div class="buner_mobile_bg" style="background-image: url(<?php echo base_url('src/tem/slide/Slider-1-photo-only.jpg');?>);"></div>
+                            <div class="content container"></div>
+                        </li>
+                        <li style="background-image: url(&quot;<?php echo base_url('src/tem/slide/O16_Hero_VisioProO365_v2_1920x660.jpg');?>&quot;); float: left; list-style: none; position: relative; width: 1319px;">
+                            <div class="buner_mobile_bg" style="background-image: url(<?php echo base_url('src/tem/slide/O16_Hero_VisioProO365_v2_1920x660.jpg');?>);"></div>
+                            <div class="content container"></div>
+                        </li>
+
+                    </ul>
                 </div>
             </div>
         </div>
-
-
+        <div class="footnote">
+            <div class="container"><a href="#">Need to get paid by companies in the EU, UK, China or Japan? - Mgates is the best for your choices</a></div>
+        </div>
     </header>
-    <!--        end nav-bar-->
 
+    <div class="section-row widgets hastitle nobg " style="background: transparent; ">
+        <div class="container ">
+            <h3 class="container " id="sec6858 ">IN THE NEWS</h3>
+            <div class="container ">
+            </div>
+            <div class="widget-area " role="complementary ">
+                <div id="widget_sp_image-346 " class="section-widget widget_sp_image ">
+                    <div class="imgcontent ">
+                        <img width="241 " height="60 " alt=" " class="attachment-full " style="max-width: 100%; " src="<?php echo base_url('src/tem');?>/index_files/Techcrunch_logo-e14585700966501.png "></div>
+                </div>
+            </div>
+            <div class="clear "></div>
+        </div>
 
-
-
-
-    <!--    slide-home-->
-    <section class="slider-home">
-        <div class="slider-home-container">
-            <div id="owl-home" class="owl-slider-home owl-carousel owl-theme" style="opacity: 1; display: block;">
-
-                <div class="owl-wrapper-outer">
-                    <div class="owl-wrapper" style="width: 7590px; left: 0px; display: block; transition: all 1000ms ease; transform: translate3d(-1265px, 0px, 0px);">
-                        <div class="owl-item" style="width: 1265px;">
-                            <div class="item background_slider_1">
-                                <div class="inner-col container">
-                                    <div class="row">
-                                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                                            <div class="text">
-                                                <h2>Easy integration, Quick connection</h2>
-                                                <p class="t">
-                                                    Providing all means of integration (API, REST, JS, API) with full of description documents and sample codes for every developing platform.
-                                                </p>
-                                                <p class="button-group">
-                                                    <a href="http://developers.1pay.vn/en" class="button default">Integrate now</a>
-
-                                                    <a href="https://1pay.vn/dang-ky.html" class="button secondary">Register</a>
-
-                                                </p>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                                            <div class="slider-images">
-                                                <a class="img"></a>
-                                            </div>
-                                        </div>
-
-                                    </div>
-
-
-                                </div>
-                            </div>
-                        </div>
-                        <div class="owl-item" style="width: 1265px;">
-                            <div class="item background_slider_2">
-                                <div class="inner-col container">
-                                    <div class="row">
-                                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                                            <div class="text">
-                                                <h2>Multi-country, Multi-language</h2>
-                                                <p class="t">
-                                                    The platform that supports for business in a variety of countries. Many kinds of currency units and languages are supported. All in one unique integration via the open platform of 1Pay.
-                                                </p>
-                                                <p class="button-group">
-                                                    <a href="https://1pay.vn/home/platform.html" class="button default">Learn more</a>
-
-                                                    <a href="https://1pay.vn/dang-ky.html" class="button secondary">Register</a>
-
-                                                </p>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                                            <div class="slider-images">
-                                                <a class="img1"></a>
-                                            </div>
-                                        </div>
-
-                                    </div>
-
-
-                                </div>
-                            </div>
-                        </div>
-                        <div class="owl-item" style="width: 1265px;">
-                            <div class="item background_slider_3">
-                                <div class="inner-col container">
-                                    <div class="row">
-                                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                                            <div class="text">
-                                                <h2>Single connection, Multi-service</h2>
-                                                <p class="t">
-                                                    Support all payment methods according to region by region via only one connection.
-                                                </p>
-                                                <p class="button-group">
-                                                    <a href="https://1pay.vn/home/services.html" class="button default">Take a tour</a>
-
-                                                    <a href="https://1pay.vn/dang-ky.html" class="button secondary">Register</a>
-
-                                                </p>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                                            <div class="slider-images">
-                                                <a class="img2"></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+    </div>
+    <div class="section-row threebox hastitle hasbg " style="background: #252525; ">
+        <div class="container ">
+            <h3 class="container " id="sec7108 ">SIMPLIFYING MASS PAYOUTS IN MULTIPLE MARKETS</h3>
+            <div class="container "></div>
+            <div class="widget-area " role="complementary ">
+                <div id="widget_sp_image-265 " class="section-widget widget_sp_image ">
+                    <h2 class=" ">
+            <a href="# " target="_self "><span>FREELANCE</span></a></h2>
+                    <div class="imgcontent ">
+                        <a href="# " target="_self " class="widget_sp_image-image-link " title="FREELANCE " rel=" ">
+                            <img width="319 " height="321 " alt="FREELANCE " class="attachment-full " style="max-width: 100%; " src="<?php echo base_url('src/tem');?>/index_files/Freelancers1.jpg "></a>
                     </div>
                 </div>
-
-
-                <div class="owl-controls clickable">
-                    <div class="owl-pagination">
-                        <div class="owl-page"><span class=""></span>
-                        </div>
-                        <div class="owl-page active"><span class=""></span>
-                        </div>
-                        <div class="owl-page"><span class=""></span>
-                        </div>
+                <div id="widget_sp_image-15 " class="section-widget widget_sp_image ">
+                    <h2 class=" ">
+                    <a href="# " target="_self "><span>ECOMMERCE</span></a></h2>
+                    <div class="imgcontent ">
+                        <a href="# " target="_self " class="widget_sp_image-image-link " title="ECOMMERCE " rel=" ">
+                            <img width="321 " height="322 " alt="ECOMMERCE " class="attachment-full " style="max-width: 100%; " src="<?php echo base_url('src/tem');?>/index_files/Ecommerce1.jpg "></a>
                     </div>
-                    <div class="owl-buttons">
-                        <div class="owl-prev">prev</div>
-                        <div class="owl-next">next</div>
+                </div>
+                <div id="widget_sp_image-16 " class="section-widget widget_sp_image ">
+                    <h2 class=" ">
+                    <a href="#" target="_self "><span>DIGITAL ADVERTISING</span></a></h2>
+                    <div class="imgcontent ">
+                        <a href="#" target="_self " class="widget_sp_image-image-link " title="DIGITAL ADVERTISING " rel=" ">
+                            <img width="320 " height="321 " alt="DIGITAL ADVERTISING " class="attachment-full " style="max-width: 100%; " src="<?php echo base_url('src/tem');?>/index_files/Affiliates1.jpg "></a>
+                    </div>
+                </div>
+                <div id="widget_sp_image-17 " class="section-widget widget_sp_image ">
+                    <h2 class=" ">
+                            <a href="#" target="_self "><span>CONTENT CREATORS</span></a></h2>
+                    <div class="imgcontent ">
+                        <a href="#" target="_self " class="widget_sp_image-image-link " title="CONTENT CREATORS " rel=" ">
+                            <img width="320 " height="321 " alt="CONTENT CREATORS " class="attachment-full " style="max-width: 100%; " src="<?php echo base_url('src/tem');?>/index_files/content_creator1.jpg "></a>
+                    </div>
+                </div>
+                <div id="widget_sp_image-389 " class="section-widget widget_sp_image ">
+                    <h2 class=" "><a href="#" target="_self "><span>TRAVEL</span></a></h2>
+                    <div class="imgcontent ">
+                        <a href="#" target="_self " class="widget_sp_image-image-link " title="TRAVEL " rel=" ">
+                            <img width="321 " height="321 " alt="TRAVEL " class="attachment-full " style="max-width: 100%; " src="<?php echo base_url('src/tem');?>/index_files/Vacation21.jpg "></a>
+                    </div>
+                </div>
+                <div id="widget_sp_image-390 " class="section-widget widget_sp_image ">
+                    <h2 class=" ">
+                            <a href="#" target="_self "><span>TRANSLATION</span></a></h2>
+                    <div class="imgcontent ">
+                        <a href="#" target="_self " class="widget_sp_image-image-link " title="TRANSLATION " rel=" ">
+                            <img width="319 " height="321 " alt="TRANSLATION " class="attachment-full " style="max-width: 100%; " src="<?php echo base_url('src/tem');?>/index_files/Translation1.jpg "></a>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-    <!--    end-slider-home-->
-
-    <!--    announcement-->
-    <section class="announcement">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="announcement-container">
-                        <a target="_blank" href="http://developers.1pay.vn/en">
-                            <strong>Connect to 1Pay today.</strong> Instantly enables customers around the world to implement payment transactions.
-                            <span class="arrow">Learn more</span>
-                        </a>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-
-    </section>
-    <!--    end-announcement-->
-
-    <!--    all-features-->
-    <section class="all-features">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-                    <div class="features-container">
-                        <div class="features-connection divh2"></div>
-                        <h3>
-                            An unique and simplest connection for all payment services.
-                        </h3>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-                    <div class="features-container">
-                        <div class="features-pricing divh2"></div>
-                        <h3>
-                            Support all payment methods for all device and application platforms under the most professional and safest security technology.
-                        </h3>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-                    <div class="features-container features-container-last">
-                        <div class="features-management divh2"></div>
-                        <h3>
-                            The most concrete, explicit and reliable statistic dashboard.
-                        </h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--end-all-features-->
-
-    <!--    partner-->
-    <section class="partner">
-        <div class="container">
-            <div class="row">
-                <div id="owl-partner" class="owl-partner owl-carousel owl-theme" style="opacity: 1; display: block;">
-                    <div class="owl-wrapper-outer">
-                        <div class="owl-wrapper" style="width: 2632px; left: 0px; display: block; transition: all 800ms ease; transform: translate3d(-188px, 0px, 0px);">
-                            <div class="owl-item" style="width: 188px;">
-                                <div class="item">
-                                    <img src="<?php echo base_url('src');?>/temp/boyaa.png" alt="Owl Image">
-                                    <div class="partner_img_col">
-                                        <img src="<?php echo base_url('src');?>/temp/boyaa_color.png" alt="Owl Image">
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 188px;">
-                                <div class="item">
-                                    <img src="<?php echo base_url('src');?>/temp/fortumo.png" alt="Owl Image">
-                                    <div class="partner_img_col">
-                                        <img src="<?php echo base_url('src');?>/temp/fortumo_color.png" alt="Owl Image">
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 188px;">
-                                <div class="item">
-                                    <img src="<?php echo base_url('src');?>/temp/tiki.png" alt="Owl Image">
-                                    <div class="partner_img_col">
-                                        <img src="<?php echo base_url('src');?>/temp/tiki_color.png" alt="Owl Image">
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 188px;">
-                                <div class="item">
-                                    <img src="<?php echo base_url('src');?>/temp/tpbank.png" alt="Owl Image">
-                                    <div class="partner_img_col">
-                                        <img src="<?php echo base_url('src');?>/temp/tpbank_color.png" alt="Owl Image">
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 188px;">
-                                <div class="item">
-                                    <img src="<?php echo base_url('src');?>/temp/vng.png" alt="Owl Image">
-                                    <div class="partner_img_col">
-                                        <img src="<?php echo base_url('src');?>/temp/vng_color.png" alt="Owl Image">
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 188px;">
-                                <div class="item">
-                                    <img src="<?php echo base_url('src');?>/temp/zte.png" alt="Owl Image">
-                                    <div class="partner_img_col">
-                                        <img src="<?php echo base_url('src');?>/temp/zte_color.png" alt="Owl Image">
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 188px;">
-                                <div class="item">
-                                    <img src="<?php echo base_url('src');?>/temp/fpt_logo_inactive.png" alt="Owl Image">
-                                    <div class="partner_img_col">
-                                        <img src="<?php echo base_url('src');?>/temp/fpt_logo_hover.png" alt="Owl Image">
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-
-
-                    <div class="owl-controls clickable">
-                        <div class="owl-pagination">
-                            <div class="owl-page active"><span class=""></span>
-                            </div>
-                            <div class="owl-page"><span class=""></span>
-                            </div>
-                        </div>
-                        <div class="owl-buttons">
-                            <div class="owl-prev">prev</div>
-                            <div class="owl-next">next</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-
-    </section>
-    <!--    end-partner-->
-
-
-
-
-
-    <div id="fb-root" class=" fb_reset">
-        <div style="position: absolute; top: -10000px; height: 0px; width: 0px;">
-            <div>
-                <iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="<?php echo base_url('src');?>/temp/XBwzv5Yrm_1.html" style="border: none;"></iframe>
-            </div>
-        </div>
-        <div style="position: absolute; top: -10000px; height: 0px; width: 0px;">
-            <div></div>
+            <div class="clear "></div>
         </div>
     </div>
-    <script>
-        (function(d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s);
-            js.id = id;
-            js.src = "//connect.facebook.net/en_VN/sdk.js#xfbml=1&version=v2.6";
-            fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
-    </script>
-    <!--   main-footer-->
-    <footer class="main-footer">
-        <div class="container" style="border: none; margin-bottom: 0px;">
-            <div class="row">
-                <script src="<?php echo base_url('src');?>/temp/platform.js" async="" defer="" gapi_processed="true">
-                    {
-                        lang: 'en'
-                    }
-                </script>
-                <div id="___plusone_0" style="text-indent: 0px; margin: 0px; padding: 0px; background: transparent; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 38px; height: 24px;">
-                    <iframe ng-non-bindable="" frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 38px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 24px;" tabindex="0" vspace="0" width="100%" id="I0_1503336689278" name="I0_1503336689278" src="<?php echo base_url('src');?>/temp/fastbutton.html" data-gapiattached="true" title="G+"></iframe>
+    <div class="section-row imgarrow hastitle nobg " style="background: transparent; ">
+        <div class="container ">
+            <h3 class="container " id="sec501 ">BENEFITS</h3>
+            <div class="container "></div>
+
+            <style>
+                .widgetwrapper {
+                    min-height: px;
+                }
+            </style>
+            <style>
+                /*
+    .section-widget h3#sec501{
+        letter-spacing: px !important;
+        color:  !important;
+        text-transform:  !important;
+    }
+
+    .section-widget h4{
+        font-size: 18px !important;
+        font-weight: 700;
+        margin-top: 20px !important;
+        margin-bottom: 10px !important;
+    }
+
+    .section-widget p {
+        font-size: 16px;
+        font-weight: 300;
+        line-height: initial;
+    }*/
+                
+                .section-widget .widgetwrapper {
+                    max-width: 360px;
+                    text-align: center;
+                    padding: 30px 20px;
+                    margin: 0 10px;
+                    box-sizing: border-box;
+                    border-bottom: 3px solid #E0E0E0;
+                    -webkit-border-radius: 6px;
+                    -moz-border-radius: 6px;
+                    border-radius: 6px;
+                    background-color: #fff;
+                    display: inline-block;
+                    vertical-align: top;
+                }
+            </style>
+            <div class="widget-area " role="complementary ">
+                <div id="widget_sp_image-78 " class="section-widget widget_sp_image ">
+                    <h2 class="nolink "><span>Scale Your Business</span></h2>
+                    <div class="imgcontent "><img width="120 " height="120 " alt="Scale Your Business " class="attachment-full " style="max-width: 100%; " src="<?php echo base_url('src/tem');?>/index_files/acquire-new-users.png "></div>
+                    <div class="widget_sp_image-description ">
+                        <h4>Scale Your Business</h4>
+                        <p>by sending mass payouts using our powerful APIs</p>
+                    </div>
                 </div>
-                <div class="fb-like fb_iframe_widget" style="top: -7px;margin-left: 7px;" data-href="https://www.facebook.com/1pay.vn/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false" fb-xfbml-state="parsed" fb-iframe-plugin-query="action=like&amp;app_id=&amp;container_width=933&amp;href=https%3A%2F%2Fwww.facebook.com%2F1pay.vn%2F&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;share=false&amp;show_faces=false"><span style="vertical-align: top; width: 0px; height: 0px; overflow: hidden;"><iframe name="f1eb211d7d78a58" width="1000px" height="1000px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:like Facebook Social Plugin" src="<?php echo base_url('src');?>/temp/like.html" style="border: none; visibility: hidden;"></iframe></span>
+                <div id="widget_sp_image-81 " class="section-widget widget_sp_image ">
+                    <h2 class="nolink "><span>Grow Globally</span></h2>
+                    <div class="imgcontent "><img width="120 " height="120 " alt="Grow Globally " class="attachment-full " style="max-width: 100%; " src="<?php echo base_url('src/tem');?>/index_files/Global-Coverage.png "></div>
+                    <div class="widget_sp_image-description ">
+                        <h4>Grow Globally</h4>
+                        <p>by tapping into Mgates's network of millions of customers worldwide</p>
+                    </div>
                 </div>
+                <div id="widget_sp_image-80 " class="section-widget widget_sp_image ">
+                    <h2 class="nolink "><span>Reduce Costs</span></h2>
+                    <div class="imgcontent "><img width="120 " height="120 " alt="Reduce Costs " class="attachment-full " style="max-width: 100%; " src="<?php echo base_url('src/tem');?>/index_files/low-cost.png "></div>
+                    <div class="widget_sp_image-description ">
+                        <h4>Reduce Costs</h4>
+                        <p>by up to 90% and provide your beneficiaries with better rates</p>
+                    </div>
+                </div>
+                <div id="widget_sp_image-79 " class="section-widget widget_sp_image ">
+                    <h2 class="nolink "><span>Enjoy Maximum Flexibility</span></h2>
+                    <div class="imgcontent "><img width="120 " height="120 " alt="Enjoy Maximum Flexibility " class="attachment-full " style="max-width: 100%; " src="<?php echo base_url('src/tem');?>/index_files/flexible.png "></div>
+                    <div class="widget_sp_image-description ">
+                        <h4>Enjoy Maximum Flexibility</h4>
+                        <p>with multiple payment options in every country</p>
+                    </div>
+                </div>
+            </div>
+            <div class="clear "></div>
+        </div>
+    </div>
+    <div class="section-row imgarrow hastitle hasbg bottom-arrow " style="background: #5ea2ce; ">
+        <div class="container ">
+            <h3 class="container " id="sec508 ">HOW IT WORKS</h3>
+            <div class="container "></div>
+
+            <style>
+                .widgetwrapper {
+                    min-height: px;
+                }
+            </style>
+            <style>
+                .section-widget .widgetwrapper {
+                    max-width: 360px;
+                    text-align: center;
+                    padding: 30px 20px;
+                    margin: 0 10px;
+                    box-sizing: border-box;
+                    border-bottom: 3px solid #E0E0E0;
+                    -webkit-border-radius: 6px;
+                    -moz-border-radius: 6px;
+                    border-radius: 6px;
+                    background-color: #fff;
+                    display: inline-block;
+                    vertical-align: top;
+                }
+            </style>
+
+        </div>
+        <div class="arrow " style="border: solid transparent; pointer-events: none; border-top-color: #5ea2ce; border-width: 40px; "></div>
+    </div>
+    <div class="section-row one-big-image hasimg nobg " style="background: transparent; ">
+        <div class="imgwrap pljpg&quot; " style="background: url(&#39;https://www.payoneer.com/en/wp-content/uploads/sites/20/2015/04/pl.jpg&#39;) center top repeat; ">
+            <div class="container ">
+                <div class="container "></div>
+                <div class="section-bigimg ">
+                </div>
+                <div class="clear "></div>
             </div>
         </div>
+    </div>
+    <footer class="content-info" role="contentinfo">
         <div class="container">
-            <div class="row">
-                <!--country-selector-->
-                <div class="col-xs-12 col-sm-3 col-md-1 col-lg-1">
-                    <div class="country-selector ">
-                        <div id="navbar-main-3" class="dropup">
-                            <a href="https://1pay.vn/home/?lang=en#" class="dropdown-toggle text-ellipsis" data-toggle="dropdown">
-                                <img width="23" height="23" alt="Vietnam" src="<?php echo base_url('src');?>/temp/vn.png"> &nbsp;Vietnam
-                            </a>
-                            <ul class="dropdown-menu animated" data-animation="fadeInUp-1">
-
-                                <li>
-                                    <a href="javascript:;" class="selected">
-                                        <img width="23" height="23" alt="Vietnam" src="<?php echo base_url('src');?>/temp/vn.png" data-hires="true"> <span>Vietnam</span>
-                                    </a>
-                                </li>
-
-                                <li>
-                                    <a href="https://1pay.vn/home/?loc=ID">
-                                        <img width="23" height="23" alt="Indonesia" src="<?php echo base_url('src');?>/temp/id.png" data-hires="true"> <span>Indonesia</span>
-                                    </a>
-                                </li>
-
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <!--end-country-selector-->
-
-                <!--footer-navbar-->
-                <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
-                    <div class="footer-navbar">
-                        <div class="footer-navbar-bottom">
-                            <ul>
-                                <li><a href="https://1pay.vn/home/about.html">About us</a>
-                                </li>
-                                <li><a target="_bank" href="http://blog.1pay.vn/">Blog</a>
-                                </li>
-                                <li><a href="https://1pay.vn/home/jobs.html">Career</a>
-                                </li>
-                                <li><a href="https://1pay.vn/home/contact.html">Contact</a>
-                                </li>
-                                <li><a target="_bank" href="https://1pay.vn/home/terms.html">Terms of Use</a>
-                                </li>
-                            </ul>
-                        </div>
-
-                        <!-- https://1pay.vn/images/Giay_phep_MXH.jpg -->
-                        <span><a href="javascript:;">Social Network License No. 358/GP-BTTTT 08-2015</a></span>
-                    </div>
-                </div>
-
-                <!--end-footer-navbar-->
-                <!--footer-info-->
-                <div class="col-xs-12 col-sm-9 col-md-2 col-lg-2">
-                    <div class="footer-info">
-                        <span>© 2015 by 1PAY JSC<br><a target="_blank" href="http://mog.vn/">A member of MOG Vietnam</a></span>
-                    </div>
-                </div>
-                <!--end-footer-info-->
-            </div>
+            <section class="widget text-4 widget_text">
+                <div class="textwidget">©2016-2017 Mgates Inc., All Rights Reserved</div>
+            </section>
         </div>
     </footer>
-    <!--    main-footer-->
 
-    <!--    back to top-->
-    <div id="back-to-top" style="display: none;">
-        <a href="https://1pay.vn/home/?lang=en#">
-            <img src="<?php echo base_url('src');?>/temp/up.png" alt="">
-        </a>
-    </div>
-    <!--
-	<div class="hotline-button">
-        <div>
+    <!-- ngg_resource_manager_marker -->
+    <script type="text/javascript" src="<?php echo base_url('src/tem');?>/index_files/modernizr.min.js.tải xuống"></script>
+    <script type="text/javascript" src="<?php echo base_url('src/tem');?>/index_files/scripts.min.js.tải xuống"></script>
+    <script type="text/javascript" src="<?php echo base_url('src/tem');?>/index_files/bootstrap_frontend.min.js.tải xuống"></script>
+    <script type="text/javascript" src="<?php echo base_url('src/tem');?>/index_files/frontend.js.tải xuống"></script>
+    <script type="text/javascript" src="<?php echo base_url('src/tem');?>/index_files/wp-embed.min.js.tải xuống"></script>
+    <script src="<?php echo base_url('src/tem');?>/index_files/d00468b7ec96a0d755875b87a76ec52ea0c646d9.js.tải xuống" type="text/javascript" async="async"></script>
 
-            <p class="hotline-text">
-				<a href="tel:+84966899868" style="color: #fff;">HOTLINE: (+84) 966 899 868</a>
-			</p>
-        </div>
-    </div>
-	-->
-    <!--end back to top-->
-    <script src="<?php echo base_url('src');?>/temp/jquery.js"></script>
-    <script src="<?php echo base_url('src');?>/temp/bootstrap.js"></script>
-    <script src="<?php echo base_url('src');?>/temp/owl.carousel.js"></script>
+    <script type="text/javascript" src="<?php echo base_url('src/tem');?>/index_files/ready.js.tải xuống"></script>
+    <script type="text/javascript" src="<?php echo base_url('src/tem');?>/index_files/list.min.js.tải xuống"></script>
+    <script type="text/javascript" src="<?php echo base_url('src/tem');?>/index_files/jquery.placeholder.min.js.tải xuống"></script>
+    <script type="text/javascript" src="<?php echo base_url('src/tem');?>/index_files/script.js.tải xuống"></script>
+   
 
-    <script src="<?php echo base_url('src');?>/temp/jquery.bootstrap-dropdown-on-hover.min.js"></script>
-    <script>
-        $(function() {
-            $("#navbar-main-1").bootstrapDropdownOnHover();
-            $("#navbar-main-2").bootstrapDropdownOnHover();
-            $("#navbar-main-3").bootstrapDropdownOnHover();
-        });
-    </script>
-    <script>
-        jQuery(document).ready(function($) {
-            if ($(window).scrollTop() > 200) {
-                $('#back-to-top').fadeIn();
-            } else {
-                $('#back-to-top').fadeOut();
-            }
-
-            $(window).scroll(function() {
-                if ($(this).scrollTop() > 200) {
-                    $('#back-to-top').fadeIn();
-                } else {
-                    $('#back-to-top').fadeOut();
-                }
-            });
-
-            $('#back-to-top').click(function() {
-                $("html, body").animate({
-                    scrollTop: 0
-                }, 600);
-                return false;
-            });
-        });
-    </script>
-
-    <script>
-        (function(i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r;
-            i[r] = i[r] || function() {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date();
-            a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0];
-            a.async = 1;
-            a.src = g;
-            m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
-        ga('create', 'UA-69136591-1', '1pay.vn');
-        ga('send', 'pageview');
-    </script>
-
-    <script>
-        window.intercomSettings = {
-            app_id: "t1w6iozt",
-            language_override: 'en',
-
-        };
-    </script>
-    <script>
-        (function() {
-            var w = window;
-            var ic = w.Intercom;
-            if (typeof ic === "function") {
-                ic('reattach_activator');
-                ic('update', intercomSettings);
-            } else {
-                var d = document;
-                var i = function() {
-                    i.c(arguments)
-                };
-                i.q = [];
-                i.c = function(args) {
-                    i.q.push(args)
-                };
-                w.Intercom = i;
-
-                function l() {
-                    var s = d.createElement('script');
-                    s.type = 'text/javascript';
-                    s.async = true;
-                    s.src = 'https://widget.intercom.io/widget/t1w6iozt';
-                    var x = d.getElementsByTagName('script')[0];
-                    x.parentNode.insertBefore(s, x);
-                }
-                if (w.attachEvent) {
-                    w.attachEvent('onload', l);
-                } else {
-                    w.addEventListener('load', l, false);
-                }
-            }
-        })()
-    </script>
-
-
-    <script>
-        $(document).ready(function() {
-
-            $("#owl-home").owlCarousel({
-
-                autoPlay: 7000,
-                navigation: true,
-                slideSpeed: 1000,
-                paginationSpeed: 1000,
-                singleItem: true
-
-            });
-
-        });
-
-        $(document).ready(function() {
-
-            $("#owl-partner").owlCarousel({
-
-                autoPlay: 5000,
-
-                navigation: true,
-                items: 5,
-                itemsDesktop: [1199, 3],
-                itemsDesktopSmall: [979, 3]
-
-            });
-            //$("#myModal").modal();
-        });
-    </script>
-
-    <script type="text/javascript">
-        window.NREUM || (NREUM = {});
-        NREUM.info = {
-            "applicationID": "22982355",
-            "applicationTime": 16,
-            "beacon": "bam.nr-data.net",
-            "queueTime": 0,
-            "licenseKey": "30e4ef4146",
-            "transactionName": "MVxaMBRSXBVXWxBZCggWaxQUWlwBdVcKRBcJVVQBFBxaCVtdRBgiI20R",
-            "agent": "",
-            "errorBeacon": "bam.nr-data.net"
-        }
-    </script>
-
-
-    <iframe name="oauth2relay618062486" id="oauth2relay618062486" src="<?php echo base_url('src');?>/temp/postmessageRelay.html" tabindex="-1" aria-hidden="true" style="width: 1px; height: 1px; position: absolute; top: -100px;"></iframe>
 </body>
 
 </html>
