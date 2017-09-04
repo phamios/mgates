@@ -1,0 +1,74 @@
+
+.imgcontent.hovermecca .wrapperfortheactiveimage {
+    position: absolute;
+    z-index: 1;
+        top: 0;
+    left: 0;
+}
+.imgcontent.hovermecca .wrapperfortheaohverimage {
+    position: absolute;
+    z-index: 0;
+}
+.imgcontent.hovermecca {
+    position: relative;
+    display: block;
+    margin: 0 auto !important;
+}
+
+.imgcontent.hovermecca:hover .wrapperfortheactiveimage {
+	z-index: 0;}
+	
+.imgcontent.hovermecca:hover .wrapperfortheaohverimage {
+	z-index: 1;}
+	
+.section-row.imgarrow .thenewhoverelement .widget_sp_image {
+    padding-left: 1%;
+    padding-right: 1%;}
+    
+    @media (max-width: 479px){
+.section-row.imgarrow .widget_sp_image-description {
+        text-align: center;}}
+		
+		
+#topnav .collapse.navbar-collapse { font-size:0px; }
+
+nav.navbar-collapse.in {
+    font-size: 0px;
+}
+
+@media (max-width: 991px) {
+	body.home .main p, .landing_page .main  p
+	{		
+		font-size: 28px;
+		line-height: 36px;
+	}
+}
+@media (max-width: 640px) {
+	body.home .main p, .landing_page .main  p
+	{		
+		font-size: 14px;
+		line-height: 24px;
+	}
+}
+@media (max-width: 767px){
+.banner_image_background>div:nth-child(3) {
+    height: 100%;
+    width: 100%;
+}
+.vi .banner_image_background>div:nth-child(3) {
+    height: initial;
+    width: initial;
+}
+.section-row.imgarrow .widget_sp_image-description, .section-row.imgarrow .widget_sp_image-description h4 {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+}
+.widget_sp_image-description p {
+    font-size: 14px !important;
+    font-weight: 200;
+}
+}
+.content img {
+    max-width: 100%;
+}

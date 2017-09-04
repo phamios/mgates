@@ -1,0 +1,68 @@
+// JavaScript Document
+
+jQuery('.search').on("keyup",function(){userList.search(jQuery(".search").val()); 
+	   if( !jQuery(this).val() ) {jQuery('.province_list').removeClass('searched');}
+	   else{jQuery('.province_list').addClass('searched');}
+	   }); 
+jQuery('.search2').on("keyup",function(){
+	userList2.search(jQuery(".search2").val()); 
+	   /* Add/Remove class depending on search input value existnece*/
+	   if( !jQuery(this).val() ) {jQuery('.city_list').removeClass('searched');}
+	   else{jQuery('.city_list').addClass('searched');}
+});  
+
+jQuery(function() {
+ jQuery('input, textarea').placeholder();
+});
+
+jQuery(document).ready(function(e) {
+	var city;	 
+jQuery('.province_list ul li').click(function () {
+	/* Reset search to show only cities from selected province */
+	jQuery('.search2').val('').keyup();
+	/* Match id of province to id of city and show only these items */
+	var provinceid = jQuery(this).attr('id');
+	jQuery('.city_list').addClass('searched');
+	var city = '#city_'+ provinceid +'';
+	jQuery('#searchArea2').find('li').removeClass('item-show').addClass('item-hide');
+	jQuery('#searchArea2').find('li'+ city +'').removeClass('item-hide').addClass('item-show');
+	//location.href = "#city_anch";
+	jQuery(".dd-con.city_list").animate( { backgroundColor: "#e9e9e9" }, 500 ).animate( { backgroundColor: "#e0e0e0" }, 500 );
+	jQuery(".dd-con.city_list p strong").animate( { color: "#ff4800" }, 500 ).animate( { color: "#333" }, 500 );
+	jQuery("#searchArea2 .search2").focus();
+});
+
+jQuery('.city_list ul li').hover(function () {
+	jQuery(this).toggleClass('zipcode-show');
+});
+
+/* Reset City so search will be general and not limited to chosen province */	
+jQuery('.reset-button.reset-city').click(function() {
+jQuery('.search2').val('').keyup();
+jQuery('#searchArea2').find('li').removeClass('item-show');
+jQuery('#searchArea2').find('li').removeClass('item-hide');
+});
+
+/* Reset Province Search */	
+jQuery('.reset-button.reset-province').click(function() {
+jQuery('.search').val('').keyup();
+});
+});
+
+// Equal heights for columns ==================================================================== //
+	function equalHeight(group) {
+		var tallest = 0;
+		group.each(function () {
+			var thisHeight = jQuery(this).height();
+			if (thisHeight > tallest) {
+				tallest = thisHeight;
+			}
+		}); group.height(tallest);
+	}
+	
+	equalHeight(jQuery('.dd-con-text'));
+	
+	/* Intialize Lists */
+var options = {  valueNames: [ 'search-list-item' ]};
+var userList = new List('searchArea', options);
+var userList2 = new List('searchArea2', options);
